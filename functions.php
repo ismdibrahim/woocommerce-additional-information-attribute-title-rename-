@@ -1,3 +1,5 @@
+<?php
+
 /**
  * Check if product has attributes, dimensions or weight to override the call_user_func() expects parameter 1 to be a valid callback error when changing the additional tab
  */
